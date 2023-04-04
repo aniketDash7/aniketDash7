@@ -1,4 +1,4 @@
-<h1 align="center">Hello ! Aniket Dash</h1>
+<h1 align="center">I'm Aniket Dash</h1>
 <h3 align="center">Learning about cool ways to play with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdash7&label=Profile%20views&color=0e75b6&style=flat" alt="aniketdash7" /> </p>
