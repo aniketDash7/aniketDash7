@@ -7,7 +7,7 @@
 
 - I’m currently working on **Machine Learning projects**
 
-- I’m currently learning **Perceptron algorithm, Tensorflow**
+- I’m currently learning **neural networks GANs, LLMS.**
 
 - Ask me about **Flask, animations using Javascript, Guitar, things in space.**
 
