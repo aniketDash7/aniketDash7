@@ -1,15 +1,15 @@
 <h1 align="center">I'm Aniket Dash</h1>
-<h3 align="center">Learning about cool ways to play with data.</h3>
+<h3 align="center">Music and Data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdash7&label=Profile%20views&color=0e75b6&style=flat" alt="aniketdash7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketdash7" alt="aniketdash7" /></a> </p>
 
-- I’m currently working on **Machine Learning projects**
+- I’m currently working on **Remote Sensing Cloud removal Algorithms**
 
-- I’m currently learning **neural networks GANs, LLMS.**
+- I’m geek about **Music, Remote Sensing, Audio Processing and LLMS.**
 
-- Ask me about **Flask, animations using Javascript, Guitar, things in space.**
+- Ask me about **cool deep learning tweaks and movies**
 
 - How to reach me **aniket.addash@gmail.com**
 
